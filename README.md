@@ -1,5 +1,7 @@
 # tts
-The repository is part of assignment. In this section I describe the script and Docker workflows. Other content is described in the write up.
+The repository is part of assessment. 
+
+In this README.md I describe the script based and Docker workflows. Other content is described in the write up.
 
 ## Script Usage
 ```
