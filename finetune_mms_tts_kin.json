@@ -21,6 +21,7 @@
 
     "max_duration_in_seconds": 12.0,
     "min_duration_in_seconds": 2.0,
+    "do_normalize": true,
     "max_tokens_length": 500,
 
     "model_name_or_path": "duxum/mms-tts-kin-pretrain",
